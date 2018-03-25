@@ -71,3 +71,7 @@ bin/
 .nbattrs
 
 
+#maven directory
+.mvn/
+
+
